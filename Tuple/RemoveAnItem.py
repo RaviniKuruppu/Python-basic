@@ -1,0 +1,7 @@
+firstTuple =(10,20,30,40,60,70)
+myList=list(firstTuple)
+print(myList)
+myList.remove(40)     
+print(myList)
+z=tuple(myList)
+print(z)
