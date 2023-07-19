@@ -1,0 +1,5 @@
+# ordinary code can be generated (ascii code number)
+print(ord("A"))
+print(ord("a"))
+print(ord("G"))
+print(ord("g"))
