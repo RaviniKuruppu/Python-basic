@@ -1,3 +1,4 @@
 # Python-basic
 Basic of python
-This contains basic Python programs for beginners
+
+This contains sample codes for basic Python programs.
