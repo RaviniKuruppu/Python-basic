@@ -12,3 +12,18 @@ def stringConvertion(s):
 print(stringConvertion("A man, a plan, a canal: Panama"))
 
 #Output-amanaplanacanalpanama
+
+
+
+# Convert a string to char list
+t="nagaram"
+char_list = list(t)
+print(char_list)
+
+#check if a element is present in string
+if("a" in t):
+    print("a is in the string") 
+
+#iterate through a string
+for i in t:
+    print(i)
